@@ -1,1 +1,0 @@
-/nix/store/10a21zhvfmc39pi2vv25z6373n6myh7m-clang-wrapper-17.0.6/bin/clang++ -g -g -O0 -Wall -Wextra -Wpedantic -fpermissive -DDEBUG -lOpenCL CMakeFiles/test.dir/test.cpp.o -o test  /nix/store/349rmnzdydnm4xr3v468a8p0jjr73an7-ocl-icd-2.3.2/lib/libOpenCL.so

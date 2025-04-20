@@ -1,3 +1,0 @@
-/home/duda/Downloads/programming/nix-opencl-test/build/CMakeFiles/test.dir
-/home/duda/Downloads/programming/nix-opencl-test/build/CMakeFiles/edit_cache.dir
-/home/duda/Downloads/programming/nix-opencl-test/build/CMakeFiles/rebuild_cache.dir
