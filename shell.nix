@@ -51,7 +51,7 @@ stdenv.mkDerivation {
 
      mkdir -p build 
      cd build 
-     cmake cmake .. -DOpenCL_LIBRARY=${ocl-icd}/lib/libOpenCL.so -DOpenCL_INCLUDE_DIR=${opencl-headers}/include/CL
+     cmake .. -DOpenCL_LIBRARY=${ocl-icd}/lib/libOpenCL.so -DOpenCL_INCLUDE_DIR=${opencl-headers}/include/CL
      make
      cd ..
   '';
